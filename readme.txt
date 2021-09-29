@@ -1,2 +1,3 @@
 Hello World
-Welcome to egci313 professional practice II
+Welcome to EGCI313
+from vscode
